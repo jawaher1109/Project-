@@ -1,4 +1,2 @@
 # luxury-mall
-Jawaher alrifai
-
-Alhatoun Alrifai
+Shopping has become easier through our project
